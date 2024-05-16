@@ -1,1 +1,1 @@
-git add .
+###Building a go module for linear algebra to practice go and help me learn linalg.
